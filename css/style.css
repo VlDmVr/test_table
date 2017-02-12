@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+    color: #CC00CC;
+}
+td{
+    text-align: center;
+}
+#update_block{
+    display: none;
+    position: fixed;
+    background: #CCCCFF;
+    border: 5px solid #6600CC;
+    padding: 10px;
+    border-radius: 10px;
+    top: 300px;
+    left: 500px;
+    opacity: 0.8;
+}
+#cpt_goods{
+    font-size: 15pt;
+    margin-bottom: 7pt;
+}
+#add_goods{
+    width: 300px;
+    background: #FFCCFF;
+    border: 5px solid #CC00CC;
+    padding: 10px;
+    border-radius: 10px;
+    display: none;
+}
+.exit{
+    cursor: pointer;
+    position: relative;
+    top: -10px;
+    left: 295px;
+}
